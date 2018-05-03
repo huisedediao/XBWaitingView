@@ -1,18 +1,10 @@
-# XBWaitingView
-waitingView
-
-### 使用：
-<br/>1.添加XBAlertViewBase到工程，XBAlertViewBase传送门：[XBAlertViewBase](https://github.com/huisedediao/XBAlertViewBase)
-<br/>2.添加masonry到工程
-
-<br/>
-
-### 效果图：
-![image](https://github.com/huisedediao/XBWaitingView/raw/master/show.gif)<br/>
-
-### 示例代码：
-
-<pre>
+//
+//  ViewController.m
+//  XBWaitingView
+//
+//  Created by xxb on 2018/5/3.
+//  Copyright © 2018年 xxb. All rights reserved.
+//
 
 #import "ViewController.h"
 #import "XBWaitingView.h"
@@ -55,4 +47,3 @@ waitingView
 
 
 @end
-</pre>
