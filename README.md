@@ -1,0 +1,2 @@
+# XBWaitingView
+waitingView
